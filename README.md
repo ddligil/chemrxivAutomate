@@ -1,2 +1,2 @@
 # chemrxivOto
-a code to otomate downloading articles from the website "CHEMRXIV"
+a code to automate downloading articles from the website "CHEMRXIV"
